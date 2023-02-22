@@ -1,5 +1,5 @@
 #examples of list
-#nombres = ["Jesus", "Maria", "Jose"]
+nombres = ["Jesus", "Maria", "Jose"]
 #print(nombres)
 #print(nombres[1])
 
@@ -16,11 +16,11 @@ datos_persona = {
 """
 
 #En forma de tupla
-datos_persona ("Jesus", 33, 1.75, True)
+#datos_persona ("Jesus", 33, 17, True)
 #print(datos_persona[2])
+
 
 price = [100, 250, 300]
 resultado = price[0] + price[2]
 print (resultado)
-print("El cliente", datos_persona[0], "compro $", resultado)
 print(price)
